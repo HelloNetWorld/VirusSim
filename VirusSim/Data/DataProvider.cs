@@ -26,7 +26,7 @@ namespace VirusSim.Data
             if (count < 0) throw new IndexOutOfRangeException(nameof(count));
             if (count == 0) return null;
             int currentIndex = 0;
-            IList<T> objs = new List<T>();
+            IList<T> objects = new List<T>();
 
             using (StreamReader sr = new StreamReader(_filePath))
             {
@@ -40,18 +40,18 @@ namespace VirusSim.Data
 
                     while (reader.Read())
                     {
-                        if (reader.TokenType == JsonToken.StartObject && objs.Count < count)
+                        if (reader.TokenType == JsonToken.StartObject && objects.Count < count)
                         {
                             currentIndex++;
                             T obj = serializer.Deserialize<T>(reader);
 
-                            if (currentIndex > startIndex && objs.Count < count)
+                            if (currentIndex > startIndex && objects.Count < count)
                             {
-                                objs.Add(obj);
+                                objects.Add(obj);
                             }
                         }
 
-                        if (objs.Count == count)
+                        if (objects.Count == count)
                         {
                             break;
                         }
@@ -59,7 +59,7 @@ namespace VirusSim.Data
                 }
             }
 
-            return objs;
+            return objects;
         }
 
         /// <summary>
