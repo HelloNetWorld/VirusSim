@@ -1,0 +1,37 @@
+﻿<Application
+    x:Class="VirusSim.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:VirusSim"
+    xmlns:v="clr-namespace:VirusSim.Views"
+    xmlns:vm="clr-namespace:VirusSim.ViewModels"
+    StartupUri="Views/MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Styles/Common.xaml" />
+                <ResourceDictionary Source="/Styles/NavigationBar.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+
+            <vm:ViewModelLocator x:Key="ViewModelLocator" />
+
+            <DataTemplate DataType="{x:Type vm:OverViewViewModel}">
+                <v:OverViewView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:ContactFilterViewModel}">
+                <v:ContactFilterView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:AgeViewModel}">
+                <v:AgeView />
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vm:DefaultViewModel}">
+                <v:DefaultView />
+            </DataTemplate>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

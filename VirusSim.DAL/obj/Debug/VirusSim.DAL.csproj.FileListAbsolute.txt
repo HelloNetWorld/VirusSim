@@ -1,0 +1,13 @@
+c:\Users\vv-vasiliev\source\repos\VirusSim\VirusSim.DAL\obj\Debug\VirusSim.DAL.csprojResolveAssemblyReference.cache
+c:\Users\vv-vasiliev\source\repos\VirusSim\VirusSim.DAL\obj\Debug\VirusSim.DAL.csproj.CoreCompileInputs.cache
+c:\Users\vv-vasiliev\source\repos\VirusSim\VirusSim.DAL\bin\Debug\VirusSim.DAL.dll
+c:\Users\vv-vasiliev\source\repos\VirusSim\VirusSim.DAL\bin\Debug\VirusSim.DAL.pdb
+c:\Users\vv-vasiliev\source\repos\VirusSim\VirusSim.DAL\bin\Debug\Newtonsoft.Json.dll
+c:\Users\vv-vasiliev\source\repos\VirusSim\VirusSim.DAL\bin\Debug\VirusSim.exe
+c:\Users\vv-vasiliev\source\repos\VirusSim\VirusSim.DAL\bin\Debug\VirusSim.Shared.dll
+c:\Users\vv-vasiliev\source\repos\VirusSim\VirusSim.DAL\bin\Debug\VirusSim.Shared.pdb
+c:\Users\vv-vasiliev\source\repos\VirusSim\VirusSim.DAL\bin\Debug\VirusSim.pdb
+c:\Users\vv-vasiliev\source\repos\VirusSim\VirusSim.DAL\bin\Debug\VirusSim.exe.config
+c:\Users\vv-vasiliev\source\repos\VirusSim\VirusSim.DAL\bin\Debug\Newtonsoft.Json.xml
+c:\Users\vv-vasiliev\source\repos\VirusSim\VirusSim.DAL\obj\Debug\VirusSim.DAL.dll
+c:\Users\vv-vasiliev\source\repos\VirusSim\VirusSim.DAL\obj\Debug\VirusSim.DAL.pdb

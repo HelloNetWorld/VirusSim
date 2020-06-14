@@ -1,0 +1,16 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:VirusSim.Data">
+    <!--  Colors  -->
+    <Color x:Key="PrimaryColor1">Green</Color>
+    <Color x:Key="PrimaryColor2">LightSeaGreen</Color>
+    <Color x:Key="PrimaryColor3">LightGreen</Color>
+    <Color x:Key="FontColor">White</Color>
+    <!--  Brushes  -->
+    <SolidColorBrush x:Key="PrimaryBrush1" Color="{StaticResource PrimaryColor1}" />
+    <SolidColorBrush x:Key="PrimaryBrush2" Color="{StaticResource PrimaryColor2}" />
+    <SolidColorBrush x:Key="PrimaryBrush3" Color="{StaticResource PrimaryColor3}" />
+    <SolidColorBrush x:Key="FontBrush" Color="{StaticResource FontColor}" />
+
+</ResourceDictionary>

@@ -1,0 +1,6 @@
+D:\Projects\VirusSim\Shared\bin\Release\VirusSim.Shared.dll
+D:\Projects\VirusSim\Shared\bin\Release\VirusSim.Shared.pdb
+D:\Projects\VirusSim\Shared\obj\Release\VirusSim.Shared.csprojAssemblyReference.cache
+D:\Projects\VirusSim\Shared\obj\Release\VirusSim.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\VirusSim\Shared\obj\Release\VirusSim.Shared.dll
+D:\Projects\VirusSim\Shared\obj\Release\VirusSim.Shared.pdb

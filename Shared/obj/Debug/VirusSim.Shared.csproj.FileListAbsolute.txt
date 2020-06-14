@@ -1,0 +1,11 @@
+c:\Users\vv-vasiliev\source\repos\VirusSim\Shared\bin\Debug\VirusSim.Shared.dll
+c:\Users\vv-vasiliev\source\repos\VirusSim\Shared\bin\Debug\VirusSim.Shared.pdb
+c:\Users\vv-vasiliev\source\repos\VirusSim\Shared\obj\Debug\VirusSim.Shared.csproj.CoreCompileInputs.cache
+c:\Users\vv-vasiliev\source\repos\VirusSim\Shared\obj\Debug\VirusSim.Shared.dll
+c:\Users\vv-vasiliev\source\repos\VirusSim\Shared\obj\Debug\VirusSim.Shared.pdb
+d:\Projects\VirusSim\Shared\bin\Debug\VirusSim.Shared.dll
+d:\Projects\VirusSim\Shared\bin\Debug\VirusSim.Shared.pdb
+d:\Projects\VirusSim\Shared\obj\Debug\VirusSim.Shared.csprojAssemblyReference.cache
+d:\Projects\VirusSim\Shared\obj\Debug\VirusSim.Shared.csproj.CoreCompileInputs.cache
+d:\Projects\VirusSim\Shared\obj\Debug\VirusSim.Shared.dll
+d:\Projects\VirusSim\Shared\obj\Debug\VirusSim.Shared.pdb
